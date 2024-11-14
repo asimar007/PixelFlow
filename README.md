@@ -32,7 +32,6 @@ https://github.com/user-attachments/assets/ecd6dd4d-2295-42f1-987e-425f4f913ca8
     -   [Installation](#installation)
     -   [Configuration](#configuration)
     -   [Usage](#usage)
-    -   [Testing](#testing)
 -   [Acknowledgments](#acknowledgments)
 
 ## Tech Stack
